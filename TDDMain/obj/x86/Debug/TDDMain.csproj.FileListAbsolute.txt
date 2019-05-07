@@ -1,0 +1,6 @@
+/Users/danielcb/Projects/TDDMain/TDDMain/bin/Debug/TDDMain.exe
+/Users/danielcb/Projects/TDDMain/TDDMain/bin/Debug/TDDMain.pdb
+/Users/danielcb/Projects/TDDMain/TDDMain/obj/x86/Debug/TDDMain.csprojResolveAssemblyReference.cache
+/Users/danielcb/Projects/TDDMain/TDDMain/obj/x86/Debug/TDDMain.csproj.CoreCompileInputs.cache
+/Users/danielcb/Projects/TDDMain/TDDMain/obj/x86/Debug/TDDMain.exe
+/Users/danielcb/Projects/TDDMain/TDDMain/obj/x86/Debug/TDDMain.pdb
